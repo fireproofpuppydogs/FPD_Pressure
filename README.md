@@ -5,10 +5,10 @@ Initially released on June 23 on fireproofpuppydogs.com
 Licensed under SIL Open Font License (1.1)
 
 Future planned additions include:
-*updated monospace (not in multiple weights yet)*
-*diacritics*
-*more glyphs*
-*lowercase?*
+*updated monospace (not in multiple weights yet)
+*diacritics
+*more glyphs
+*lowercase?
 
 #Guide
 
