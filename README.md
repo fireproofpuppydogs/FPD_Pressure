@@ -1,22 +1,21 @@
 # About
 
 Designed by Felix Summ
-Initially released on June 23 on fireproofpuppydogs.com
 Licensed under SIL Open Font License (1.1)
 
 Future planned additions include:
 * updated monospace (not in multiple weights yet)
-* diacritics
-* more glyphs
-* lowercase?
+* all diacritics
+* more misc glyphs
+* side-bearing + kerning refinement
 
 # Guide
 
-The proportional glyphs are the default style of the font. Monospace variants are located in Stylistic Set 1. In the future if all glyphs are added as monospace variants I will release the monospace variant as its own file in addition to this one.
+FPD Pressure is inspired by DSA profile keycaps and retro keyboards such as the Space Cadet. The letterforms are thus more square in shape and have their own subtle, retro roundness to them.
 
 # Donate
 
-If you are using this font commercially or just really love the font, please consider donating. This helps future additions to the font and keeps me hard at work.
+This font is free to use for personal and commercial work. If you really love the font and want to support my work even further, please consider donating.
 
 You can donate to @Felix-Summ on Venmo or felix@fireproofpuppydogs.com on Paypal.
 
